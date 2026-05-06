@@ -1,0 +1,23 @@
+{
+  "id": "./index.html",
+  "name": "SAKURA GROUP MATCH LOG",
+  "short_name": "SAKURA LOG",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#060606",
+  "theme_color": "#0b0b0b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./SGroup.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./SGroup.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
